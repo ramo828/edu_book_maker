@@ -1,0 +1,24 @@
+{
+    "appTitle": "Eğitim Uygulaması",
+    "sections": [
+        {
+            "id": "section_1",
+            "title": "Giriş",
+            "lessons": [
+                {
+                    "id": "lesson_1",
+                    "title": "Elektronika",
+                    "images": [],
+                    "codes": [],
+                    "links": [],
+                    "subsections": [
+                        {
+                            "type": "text",
+                            "content": "Elektronika"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
